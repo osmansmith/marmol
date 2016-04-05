@@ -1,80 +1,75 @@
 <?php include_once "head.php";?>
 
 <<<<<<< HEAD
-<div class="ui raised segment">
+      <div class="ui raised segment">
       <a class="ui green ribbon label">Contactanos</a>
       <span>Titulo</span>
-      
-      <p><br>
-      Estamos ubicados en <br>
-      Ruta D-43, Kilometro 12, Numero 5000 <br>
-      Sector Pan de Azúcar, <br>
-      Coquimbo, IV Regió.
-      </p>
       
       <!-- Divisores -->
 
       <div class="ui ten column middle aligned very relaxed stackable grid">
-        <div class="column">
-          <p>Administración y Ventas <br>
-              Fono : +569 50047894 <br>
-              contacto@serenamarmol.cl
-          </p>
-        </div>
+        
       <div class="center aligned column">
-       <p> Gerencia de operaciones9 <br>
-          Fono : +569 50047696 <br>
-          shernandez@serenamarmol.cl
-       </p>
+        <img src="#" style="background-color:black whidth:30px height:30px;">
+       <p> Producto 01 <br>
+         Clase <br>
+            Valor </p>
       </div>
 
       <div class="center aligned column">
-       <p> Gerencia de operaciones8 <br>
-          Fono : +569 50047696 <br>
-          shernandez@serenamarmol.cl
-       </p>
+        <img src="#" style="background-color:black whidth:30px height:30px;">
+        <p> Producto 02 <br>
+            Clase <br>
+            Valor </p>
+
       </div>
       <div class="center aligned column">
-       <p> Gerencia de operaciones7 <br>
-          Fono : +569 50047696 <br>
-          shernandez@serenamarmol.cl
-       </p>
+        <img src="#" style="background-color:black whidth:30px height:30px;">
+       <p> Producto 03 <br>
+         Clase <br>
+            Valor </p>
       </div>
       <div class="center aligned column">
-       <p> Gerencia de operaciones6 <br>
-          Fono : +569 50047696 <br>
-          shernandez@serenamarmol.cl
-       </p>
+        <img src="#" style="background-color:black whidth:30px height:30px;">
+       <p> Producto 04 <br>
+          Clase <br>
+            Valor </p>
       </div>
       <div class="center aligned column">
-       <p> Gerencia de operaciones5 <br>
-          Fono : +569 50047696 <br>
-          shernandez@serenamarmol.cl
-       </p>
+        <img src="#" style="background-color:black whidth:30px height:30px;">
+       <p> Producto 05 <br>
+           Clase <br>
+            Valor </p>
       </div>
       <div class="center aligned column">
-       <p> Gerencia de operaciones4 <br>
-          Fono : +569 50047696 <br>
-          shernandez@serenamarmol.cl
-       </p>
+        <img src="#" style="background-color:black whidth:30px height:30px;">
+       <p> Producto 06 <br>
+           Clase <br>
+            Valor </p>
       </div>
       <div class="center aligned column">
-       <p> Gerencia de operaciones3 <br>
-          Fono : +569 50047696 <br>
-          shernandez@serenamarmol.cl
-       </p>
+        <img src="#" style="background-color:black whidth:30px height:30px;">
+       <p> Producto 07 <br>
+          Clase <br>
+            Valor </p>
       </div>
       <div class="center aligned column">
-       <p> Gerencia de operaciones2 <br>
-          Fono : +569 50047696 <br>
-          shernandez@serenamarmol.cl
-       </p>
+        <img src="#" style="background-color:black whidth:30px height:30px;">
+       <p> Producto 08 <br>
+           Clase <br>
+            Valor </p>
       </div>
       <div class="center aligned column">
-       <p> Gerencia de operaciones1 <br>
-          Fono : +569 50047696 <br>
-          shernandez@serenamarmol.cl
-       </p>
+        <img src="#" style="background-color:black whidth:30px height:30px;">
+       <p> Producto 09 <br>
+           Clase <br>
+            Valor </p>
+      </div>
+      <div class="center aligned column">
+        <img src="#" style="background-color:black whidth:30px height:30px;">
+       <p> Producto 10 <br>
+           Clase <br>
+            Valor </p>
       </div>
           </div>                            
         </div>
@@ -85,31 +80,74 @@
       <a class="ui green ribbon label">Contactanos</a>
       <span>Titulo</span>
       
-      <p><br>
-      Estamos ubicados en <br>
-      Ruta D-43, Kilometro 12, Numero 5000 <br>
-      Sector Pan de Azúcar, <br>
-      Coquimbo, IV Regió.
-      </p>
-      
-      
-      
-      <div class="ui two column middle aligned very relaxed stackable grid">
-  <div class="column">
-  <p>Administración y Ventas <br>
-         Fono : +569 50047894 <br>
-         contacto@serenamarmol.cl
-      </p>
-  </div>
-  <div class="ui vertical divider"></div>
-  <div class="center aligned column">
-   <p> Gerencia de operaciones <br>
-      Fono : +569 50047696 <br>
-      shernandez@serenamarmol.cl
-   </p>
-  </div>
-</div>                              
-    </div>
+      <!-- Divisores -->
+
+      <div class="ui ten column middle aligned very relaxed stackable grid">
+        
+      <div class="center aligned column">
+        <img src="#" style="background-color:black whidth:30px height:30px;">
+       <p> Producto 01 <br>
+         Clase <br>
+            Valor </p>
+      </div>
+
+      <div class="center aligned column">
+        <img src="#" style="background-color:black whidth:30px height:30px;">
+        <p> Producto 02 <br>
+            Clase <br>
+            Valor </p>
+
+      </div>
+      <div class="center aligned column">
+        <img src="#" style="background-color:black whidth:30px height:30px;">
+       <p> Producto 03 <br>
+         Clase <br>
+            Valor </p>
+      </div>
+      <div class="center aligned column">
+        <img src="#" style="background-color:black whidth:30px height:30px;">
+       <p> Producto 04 <br>
+          Clase <br>
+            Valor </p>
+      </div>
+      <div class="center aligned column">
+        <img src="#" style="background-color:black whidth:30px height:30px;">
+       <p> Producto 05 <br>
+           Clase <br>
+            Valor </p>
+      </div>
+      <div class="center aligned column">
+        <img src="#" style="background-color:black whidth:30px height:30px;">
+       <p> Producto 06 <br>
+           Clase <br>
+            Valor </p>
+      </div>
+      <div class="center aligned column">
+        <img src="#" style="background-color:black whidth:30px height:30px;">
+       <p> Producto 07 <br>
+          Clase <br>
+            Valor </p>
+      </div>
+      <div class="center aligned column">
+        <img src="#" style="background-color:black whidth:30px height:30px;">
+       <p> Producto 08 <br>
+           Clase <br>
+            Valor </p>
+      </div>
+      <div class="center aligned column">
+        <img src="#" style="background-color:black whidth:30px height:30px;">
+       <p> Producto 09 <br>
+           Clase <br>
+            Valor </p>
+      </div>
+      <div class="center aligned column">
+        <img src="#" style="background-color:black whidth:30px height:30px;">
+       <p> Producto 10 <br>
+           Clase <br>
+            Valor </p>
+      </div>
+          </div>                            
+        </div>
 
     granitooo
 
@@ -117,64 +155,150 @@
       <a class="ui green ribbon label">Contactanos</a>
       <span>Titulo</span>
       
-      <p><br>
-      Estamos ubicados en <br>
-      Ruta D-43, Kilometro 12, Numero 5000 <br>
-      Sector Pan de Azúcar, <br>
-      Coquimbo, IV Regió.
-      </p>
-      
-      
-      
-      <div class="ui two column middle aligned very relaxed stackable grid">
-  <div class="column">
-  <p>Administración y Ventas <br>
-         Fono : +569 50047894 <br>
-         contacto@serenamarmol.cl
-      </p>
-  </div>
-  <div class="ui vertical divider"></div>
-  <div class="center aligned column">
-   <p> Gerencia de operaciones <br>
-      Fono : +569 50047696 <br>
-      shernandez@serenamarmol.cl
-   </p>
-  </div>
-</div>                              
-    </div>
+      <!-- Divisores -->
+
+      <div class="ui ten column middle aligned very relaxed stackable grid">
+        
+      <div class="center aligned column">
+        <img src="#" style="background-color:black whidth:30px height:30px;">
+       <p> Producto 01 <br>
+         Clase <br>
+            Valor </p>
+      </div>
+
+      <div class="center aligned column">
+        <img src="#" style="background-color:black whidth:30px height:30px;">
+        <p> Producto 02 <br>
+            Clase <br>
+            Valor </p>
+
+      </div>
+      <div class="center aligned column">
+        <img src="#" style="background-color:black whidth:30px height:30px;">
+       <p> Producto 03 <br>
+         Clase <br>
+            Valor </p>
+      </div>
+      <div class="center aligned column">
+        <img src="#" style="background-color:black whidth:30px height:30px;">
+       <p> Producto 04 <br>
+          Clase <br>
+            Valor </p>
+      </div>
+      <div class="center aligned column">
+        <img src="#" style="background-color:black whidth:30px height:30px;">
+       <p> Producto 05 <br>
+           Clase <br>
+            Valor </p>
+      </div>
+      <div class="center aligned column">
+        <img src="#" style="background-color:black whidth:30px height:30px;">
+       <p> Producto 06 <br>
+           Clase <br>
+            Valor </p>
+      </div>
+      <div class="center aligned column">
+        <img src="#" style="background-color:black whidth:30px height:30px;">
+       <p> Producto 07 <br>
+          Clase <br>
+            Valor </p>
+      </div>
+      <div class="center aligned column">
+        <img src="#" style="background-color:black whidth:30px height:30px;">
+       <p> Producto 08 <br>
+           Clase <br>
+            Valor </p>
+      </div>
+      <div class="center aligned column">
+        <img src="#" style="background-color:black whidth:30px height:30px;">
+       <p> Producto 09 <br>
+           Clase <br>
+            Valor </p>
+      </div>
+      <div class="center aligned column">
+        <img src="#" style="background-color:black whidth:30px height:30px;">
+       <p> Producto 10 <br>
+           Clase <br>
+            Valor </p>
+      </div>
+          </div>                            
+        </div>
 
 
     Gold!!
 
-    <div class="ui raised segment">
+   <div class="ui raised segment">
       <a class="ui green ribbon label">Contactanos</a>
       <span>Titulo</span>
       
-      <p><br>
-      Estamos ubicados en <br>
-      Ruta D-43, Kilometro 12, Numero 5000 <br>
-      Sector Pan de Azúcar, <br>
-      Coquimbo, IV Regió.
-      </p>
-      
-      
-      
-      <div class="ui two column middle aligned very relaxed stackable grid">
-  <div class="column">
-  <p>Administración y Ventas <br>
-         Fono : +569 50047894 <br>
-         contacto@serenamarmol.cl
-      </p>
-  </div>
-  <div class="ui vertical divider"></div>
-  <div class="center aligned column">
-   <p> Gerencia de operaciones <br>
-      Fono : +569 50047696 <br>
-      shernandez@serenamarmol.cl
-   </p>
-  </div>
-</div>                              
-    </div>
+      <!-- Divisores -->
+
+      <div class="ui ten column middle aligned very relaxed stackable grid">
+        
+      <div class="center aligned column">
+        <img src="#" style="background-color:black whidth:30px height:30px;">
+       <p> Producto 01 <br>
+         Clase <br>
+            Valor </p>
+      </div>
+
+      <div class="center aligned column">
+        <img src="#" style="background-color:black whidth:30px height:30px;">
+        <p> Producto 02 <br>
+            Clase <br>
+            Valor </p>
+
+      </div>
+      <div class="center aligned column">
+        <img src="#" style="background-color:black whidth:30px height:30px;">
+       <p> Producto 03 <br>
+         Clase <br>
+            Valor </p>
+      </div>
+      <div class="center aligned column">
+        <img src="#" style="background-color:black whidth:30px height:30px;">
+       <p> Producto 04 <br>
+          Clase <br>
+            Valor </p>
+      </div>
+      <div class="center aligned column">
+        <img src="#" style="background-color:black whidth:30px height:30px;">
+       <p> Producto 05 <br>
+           Clase <br>
+            Valor </p>
+      </div>
+      <div class="center aligned column">
+        <img src="#" style="background-color:black whidth:30px height:30px;">
+       <p> Producto 06 <br>
+           Clase <br>
+            Valor </p>
+      </div>
+      <div class="center aligned column">
+        <img src="#" style="background-color:black whidth:30px height:30px;">
+       <p> Producto 07 <br>
+          Clase <br>
+            Valor </p>
+      </div>
+      <div class="center aligned column">
+        <img src="#" style="background-color:black whidth:30px height:30px;">
+       <p> Producto 08 <br>
+           Clase <br>
+            Valor </p>
+      </div>
+      <div class="center aligned column">
+        <img src="#" style="background-color:black whidth:30px height:30px;">
+       <p> Producto 09 <br>
+           Clase <br>
+            Valor </p>
+      </div>
+      <div class="center aligned column">
+        <img src="#" style="background-color:black whidth:30px height:30px;">
+       <p> Producto 10 <br>
+           Clase <br>
+            Valor </p>
+      </div>
+          </div>                            
+        </div>
 =======
 <!-- contenido de cuarzo-->
 <div class="ui two column grid">

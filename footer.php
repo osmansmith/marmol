@@ -110,7 +110,11 @@ var URLactual = window.location;
         if (resizeTimer) clearTimeout(resizeTimer);
         resizeTimer = setTimeout(collage, 100);
     });
+
+    // Funcion de jvascript funcion de imagenes (06imagenes)
+
     $("#mostrar").attr("src","img/01.jpg");
+    
     $("#img_01").click(function(e){
         e.preventDefault();
         $("#mostrar").attr("src","img/01.jpg");
@@ -135,6 +139,7 @@ var URLactual = window.location;
         e.preventDefault();
         $("#mostrar").attr("src","img/06.jpg");
     })
+    
 </script>
 
 </body>
