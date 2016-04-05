@@ -153,7 +153,7 @@
   </div>
   <div class="column">
      <div style="padding:5% 0 5% 0;" class="ui raised segment">
-   <center><img id="mostrar" class="ui large image" src="img/image.png">
+   <center><img id="mostrar" class="ui huge image autumn leaf" src="img/image.png">
  </center>
       </div>
   </div>

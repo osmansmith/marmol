@@ -111,30 +111,52 @@ var URLactual = window.location;
         resizeTimer = setTimeout(collage, 100);
     });
     $("#mostrar").attr("src","img/01.jpg");
-    $("#img_01").click(function(e){
+    
+       $("#img_01").click(function(e){
         e.preventDefault();
+           $('.autumn.leaf')
+               .transition('scale')
+               .transition('scale');
+;
         $("#mostrar").attr("src","img/01.jpg");
-    })
+    });  
+   
+   
     $("#img_02").click(function(e){
         e.preventDefault();
+          $('.autumn.leaf')
+               .transition('scale')
+               .transition('fade down');
         $("#mostrar").attr("src","img/02.jpg");
-    })
+    });
     $("#img_03").click(function(e){
         e.preventDefault();
+          $('.autumn.leaf')
+               .transition('scale')
+               .transition('fade left');
         $("#mostrar").attr("src","img/03.jpg");
-    })
+    });
     $("#img_04").click(function(e){
         e.preventDefault();
+          $('.autumn.leaf')
+               .transition('scale')
+               .transition('fade right');
         $("#mostrar").attr("src","img/04.jpg");
-    })
+    });
     $("#img_05").click(function(e){
         e.preventDefault();
+          $('.autumn.leaf')
+               .transition('scale')
+               .transition('horizontal flip');
         $("#mostrar").attr("src","img/05.jpg");
-    })
+    });
     $("#img_06").click(function(e){
         e.preventDefault();
+          $('.autumn.leaf')
+               .transition('scale')
+               .transition('vertical flip');
         $("#mostrar").attr("src","img/06.jpg");
-    })
+    });
 </script>
 
 </body>
