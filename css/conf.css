@@ -1,0 +1,35 @@
+/* Todo codigo personalizado sera agregado en este archivo c:*/
+.ui.secondary.pointing.menu .active.item {
+    background-color: transparent;
+    box-shadow: none;
+    border-color: #fff;
+    font-weight: 700;
+    color: rgba(0,0,0,.95);
+}
+
+.cafo {
+	height: 275px;
+	color: white;
+	border: none;
+	font-size: 36pt;
+	font-style: verdana;
+	margin-top: 25px;
+	text-align: center;
+	line-height: 45px;
+	vertical-align: middle;
+}
+
+#cafo1 {
+	background-image: url(/img/img_back.jpg);
+	background-attachment: fixed;
+  	background-position: 50% -800%;
+  	border-radius: 2px;
+  	-webkit-background-size: cover; 
+  	-moz-background-size: cover; 
+  	-o-background-size: cover; 
+  	background-size: cover;
+}
+/* Este es el codigo de la imagen de fondo de todas las paginas */
+body{
+    background-image: url(../img/bg03.jpg) !important;
+}
