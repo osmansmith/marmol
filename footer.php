@@ -25,7 +25,7 @@
               <div class="item">
                 <i class="linkify icon"></i>
                 <div class="content">
-                  <a href="http://www.serenamarmol.cl">serena Marmol</a>
+                  <a href="http://www.serenamarmol.cl">Serena Marmol</a>
                 </div>
               </div>
               <div class="ui vertical divider" style="heigth: 10px;"></div>
@@ -65,10 +65,11 @@ function jefes()
      $('.shape').shape('flip left');    
     }    
     
-var pag = ["","index","empresa","trabajos","clientes","contactos","catalogo"]
-var cont = ["","Home","Empresa","Trabajos","Clientes","Contactos","Catalogo"]  
+var pag = ["","index","empresa","trabajos","clientes","contactos","catalogo","marmol","granito","cuarzo"]
+var cont = ["","Home","Empresa","Trabajos","Clientes","Contactos","Catalogo","Mármol","Granito","Cuarzo"]
+var num = 1;    
 var URLactual = window.location;
-    for(var i = 1;i<7;i++)
+    for(var i = 1;i<10;i++)
     {
   if(URLactual == url+pag[i]+".php")
   {
@@ -77,7 +78,42 @@ var URLactual = window.location;
 }else{
       $("#"+pag[i]+"").removeClass('active');    
 } 
+<<<<<<< HEAD
     }
+=======
+    }   
+     $('.Collage').collagePlus();   $(window).load(function () {
+        $(document).ready(function(){
+            collage();
+            $('.Collage').collageCaption();
+        });
+    });
+
+
+    // Here we apply the actual CollagePlus plugin
+    function collage() {
+        $('.Collage').removeWhitespace().collagePlus(
+            {
+                'fadeSpeed'     : 2000,
+                'targetHeight'  : 200,
+                'effect'        : 'effect-2',
+                'direction'     : 'vertical',
+                'allowPartialLastRow':false
+            }
+        );
+    };
+
+    // This is just for the case that the browser window is resized
+    var resizeTimer = null;
+    $(window).bind('resize', function() {
+        // hide all the images until we resize them
+        $('.Collage .Image_Wrapper').css("opacity", 0);
+        // set a timer to re-apply the plugin
+        if (resizeTimer) clearTimeout(resizeTimer);
+        resizeTimer = setTimeout(collage, 200);
+    });
+    
+>>>>>>> origin/master
 </script>
 </body>
 </html>
