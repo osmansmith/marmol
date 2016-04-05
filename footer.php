@@ -1,9 +1,35 @@
- asfasgasgagsa
+
      <footer style="background:#0e0b0a; margin-top:3%;">
         <div class="ui stackable two column grid"> 
         <div style=" color:white; font-size:8pt; min-height: 70px; padding:15px 0 4% 4%;" class="ten wide column">
            <!--Texto Izquierdo del footer-->
-           <p>Nuestros Productos consisten en Mármol,<br>Granito y Cuarzo, Muebles a Medida</p>
+           <div class="ui list">
+              <div class="item">
+                <i class="users icon"></i>
+                <div class="content">
+                  Serena Marmol - Derechos Reservados.
+                </div>
+              </div>
+              <div class="item">
+                <i class="marker icon"></i>
+                <div class="content">
+                  Pan de Azucar, Coquimbo
+                </div>
+              </div>
+              <div class="item">
+                <i class="mail icon"></i>
+                <div class="content">
+                  <a href="mailto:jack@semantic-ui.com">contacto@serenamarmol.cl</a>
+                </div>
+              </div>
+              <div class="item">
+                <i class="linkify icon"></i>
+                <div class="content">
+                  <a href="http://www.serenamarmol.cl">serena Marmol</a>
+                </div>
+              </div>
+              <div class="ui vertical divider" style="heigth: 10px;"></div>
+            </div>
             </div>
         <div style=" min-height: 70px; padding:20px; text-align: right;" class="four wide column">
            <!--Contenido Derecho del footer-->  
@@ -32,8 +58,8 @@
 var url = "http://localhost/marmol/";
 $('.ui.dropdown').dropdown();
 // en el segundo parametro de la funcion setInterval se puede setear el tiempo de las imagenes giratorias de los jefes(esta en milisegundos)
-    // seteado en 4 seg = 4000
-var tiempo = setInterval(jefes, 4000);
+    // seteado en 5 seg = 5000
+var tiempo = setInterval(jefes, 5000);
 function jefes()
     {
      $('.shape').shape('flip left');    
@@ -52,10 +78,6 @@ var URLactual = window.location;
       $("#"+pag[i]+"").removeClass('active');    
 } 
     }
-
-    
 </script>
-
-
 </body>
 </html>
