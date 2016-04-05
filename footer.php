@@ -96,7 +96,7 @@ var URLactual = window.location;
                 'targetHeight'  : 200,
                 'effect'        : 'effect-2',
                 'direction'     : 'vertical',
-                'allowPartialLastRow':false
+                'allowPartialLastRow':true
             }
         );
     };
@@ -108,7 +108,7 @@ var URLactual = window.location;
         $('.Collage .Image_Wrapper').css("opacity", 0);
         // set a timer to re-apply the plugin
         if (resizeTimer) clearTimeout(resizeTimer);
-        resizeTimer = setTimeout(collage, 200);
+        resizeTimer = setTimeout(collage, 100);
     });
     
     

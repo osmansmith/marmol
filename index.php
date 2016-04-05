@@ -133,8 +133,9 @@
      </div>
 
 <div id="cafo1" class="cafo"><br></br>Nuestra Empresa "Somos los mejores en tallado"</div>
-          <div style=" min-height: 70px; padding:1% 0 0 4%;" class="ten wide column">
-     <!--Texto del home-->
+         <div class="ui stackable one column grid"> 
+          <!-- <div style=" min-height: 70px; padding:1% 0 0 4%;" class="ten wide column">
+    Texto del home-->
      <div class="column">
     <div class="ui raised segment">
       <a class="ui green ribbon label">Home</a>

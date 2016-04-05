@@ -144,8 +144,6 @@ a.return:hover{
  
  <div class="Image_Wrapper" data-caption="This is some data <u>with</u>html in it This is some data <u>with</u>html in it. Also a really long sentence with a <a href='http://www.bbc.co.uk'>link</a> in it"><a><img src="img/07.jpg" width="400" height="120"></a></div>
  
- <div class="Image_Wrapper" data-caption="This is some data <u>with</u>html in it This is some data <u>with</u>html in it. Also a really long sentence with a <a href='http://www.bbc.co.uk'>link</a> in it"><a><img src="img/08.jpg" width="300" height="300"></a></div>
- 
  </section>
 
 
