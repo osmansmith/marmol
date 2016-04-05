@@ -1,4 +1,4 @@
- 
+ asfasgasgagsa
      <footer style="background:#0e0b0a; margin-top:3%;">
         <div class="ui stackable two column grid"> 
         <div style=" color:white; font-size:8pt; min-height: 70px; padding:15px 0 4% 4%;" class="ten wide column">
