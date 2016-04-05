@@ -115,16 +115,11 @@ var URLactual = window.location;
 
     $("#mostrar").attr("src","img/01.jpg");
     
-<<<<<<< HEAD
-    $("#img_01").click(function(e){
-=======
        $("#img_01").click(function(e){
->>>>>>> origin/master
         e.preventDefault();
            $('.autumn.leaf')
-               .transition('scale')
                .transition('scale');
-;
+               .transition('scale');
         $("#mostrar").attr("src","img/01.jpg");
     });  
    
