@@ -65,12 +65,12 @@
      <!--Texto del home-->
      <div class="column">
     <div class="ui raised segment">
-      <a class="ui teal right ribbon">Home</a>
+      <a class="ui green ribbon label">Home</a>
        <span>Bienvenido</span>
          <br><br>
       <p>Marmolería SERENA MARMOL es una empresa que nace el año 2012, bajo la necesidad del mercado, fabricando piezas elaboradas en mármol, granito y cuarzo, dimensionados para el hogar en muebles, cocina y baño, ademas , para locales comerciales, inmobiliaria y otros. <br><br> Se elaboran cubiertas de mesas, revestimientos de cocinas, cubiertas para vanitorios, piso y revestimientos, entre otros. Administrada por su dueño, Segundo Hernández y Compa. Nuestros productos consisten en Mármol, Granito y Cuarzo, muebles a medidas. </p>
         <iframe src="https://player.vimeo.com/video/87545999?loop=1&title=0&byline=0&portrait=0" width="640" height="281" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe>
-        <p><a href="https://vimeo.com/87545999"></a><a href="https://vimeo.com/user25419268"></a><a href="https://vimeo.com"></a></p>
+        <!--<p><a href="https://vimeo.com/87545999"></a><a href="https://vimeo.com/user25419268"></a><a href="https://vimeo.com"></a></p>-->                
     </div>
   </div>
       </div>
