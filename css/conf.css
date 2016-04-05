@@ -20,7 +20,7 @@
 }
 
 #cafo1 {
-	background-image: url(../img/backgrounds_con_osman.jpg);
+	background-image: url(../img/img_back.jpg);
 	background-attachment: fixed;
   	background-position: 50% 10%;
   	border-radius: 2px;
@@ -31,7 +31,7 @@
 }
 /* Este es el codigo de la imagen de fondo de todas las paginas */
 body{
-    background-image: url(../img/bg03.jpg) !important;
+    background-image: url(../img/bg.jpg) !important;
 }
 
 #img_01,#img_02,#img_03,#img_04,#img_05,#img_06,#img_07{
