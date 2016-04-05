@@ -110,7 +110,7 @@
       <textarea name="mensaje" id="mensaje" cols="30" rows="10" placeholder="MENSAJE"></textarea>
   </div>
   <button class="ui button" type="submit">ENVIAR</button>
-   <button class="ui button" type="reset">LIMPIAR</button>
+   <button class="ui button" type="reset"></button>
   
 </form>
  
