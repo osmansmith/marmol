@@ -10,63 +10,63 @@
       <div class="ui ten column middle aligned very relaxed stackable grid">
         
       <div class="center aligned column">
-        <img src="#" style="background-color:black whidth:30px height:30px;">
+        <img class="ui Tiny image" src="img/mm01.png">
        <p> Producto 01 <br>
          Clase <br>
             Valor </p>
       </div>
 
       <div class="center aligned column">
-        <img src="#" style="background-color:black whidth:30px height:30px;">
+        <img class="ui small image" src="img/mm01.png">
         <p> Producto 02 <br>
             Clase <br>
             Valor </p>
 
       </div>
       <div class="center aligned column">
-        <img src="#" style="background-color:black whidth:30px height:30px;">
+        <img class="ui medium image" src="img/mm01.png">
        <p> Producto 03 <br>
          Clase <br>
             Valor </p>
       </div>
       <div class="center aligned column">
-        <img src="#" style="background-color:black whidth:30px height:30px;">
+        <img class="ui small image" src="img/mm01.png">
        <p> Producto 04 <br>
           Clase <br>
             Valor </p>
       </div>
       <div class="center aligned column">
-        <img src="#" style="background-color:black whidth:30px height:30px;">
+        <img class="ui small image" src="img/mm01.png">
        <p> Producto 05 <br>
            Clase <br>
             Valor </p>
       </div>
       <div class="center aligned column">
-        <img src="#" style="background-color:black whidth:30px height:30px;">
+        <img class="ui small image" src="img/mm01.png">
        <p> Producto 06 <br>
            Clase <br>
             Valor </p>
       </div>
       <div class="center aligned column">
-        <img src="#" style="background-color:black whidth:30px height:30px;">
+        <img class="ui small image" src="img/mm01.png">
        <p> Producto 07 <br>
           Clase <br>
             Valor </p>
       </div>
       <div class="center aligned column">
-        <img src="#" style="background-color:black whidth:30px height:30px;">
+        <img class="ui small image" src="img/mm01.png">
        <p> Producto 08 <br>
            Clase <br>
             Valor </p>
       </div>
       <div class="center aligned column">
-        <img src="#" style="background-color:black whidth:30px height:30px;">
+        <img class="ui small image" src="img/mm01.png">
        <p> Producto 09 <br>
            Clase <br>
             Valor </p>
       </div>
       <div class="center aligned column">
-        <img src="#" style="background-color:black whidth:30px height:30px;">
+        <img class="ui small image" src="img/mm01.png">
        <p> Producto 10 <br>
            Clase <br>
             Valor </p>
