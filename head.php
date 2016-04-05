@@ -9,7 +9,10 @@
 	<link rel="stylesheet" href="css/conf.css">
 	<script src="dist/jquery-1.11.3.min.js"></script>
 	<script src="dist/slider.js"></script>	
-	 <script type="text/javascript" src="dist/jssor.slider.min.js"></script>  	 
+	 <script type="text/javascript" src="dist/jssor.slider.min.js"></script>  
+	  <script src="js/jquery.collagePlus.min.js"></script>
+     <script src="js/jquery.collageCaption.min.js"></script>
+     <script src="js/jquery.removeWhitespace.min.js"></script>	 
 </head>
 <body>
  <div class="ui container">
