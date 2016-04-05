@@ -61,7 +61,9 @@ $('.ui.dropdown').dropdown();
 var tiempo = setInterval(jefes, 5000);
 function jefes()
     {
-     $('.shape').shape('flip left');    
+     $('.shape')
+  .shape('set next side', '.second.side')
+  .shape('flip left');  
     }    
     
 var pag = ["","index","empresa","trabajos","clientes","contactos","catalogo","marmol","granito","cuarzo"]
