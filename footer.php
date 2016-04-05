@@ -80,6 +80,20 @@ var URLactual = window.location;
 
     }
 
+       
+   var pag = ["","index","empresa","trabajos","clientes","contactos","catalogo","marmol","granito","cuarzo"]
+var cont = ["","Home","Empresa","Trabajos","Clientes","Contactos","Catalogo","Mármol","Granito","Cuarzo"]
+var num = 1;    
+var URLactual = window.location;
+    for(var i = 1;i<10;i++)
+    {
+  if(URLactual == url+pag[i]+".php")
+  {
+      $("#"+pag[i]+"").addClass('active');
+      $("title").text(cont[i]);    
+}else{
+      $("#"+pag[i]+"").removeClass('active');    
+} 
     }   
      $('.Collage').collagePlus();   $(window).load(function () {
         $(document).ready(function(){
@@ -87,7 +101,6 @@ var URLactual = window.location;
             $('.Collage').collageCaption();
         });
     });
-
 
 
     // Here we apply the actual CollagePlus plugin
@@ -111,7 +124,8 @@ var URLactual = window.location;
         // set a timer to re-apply the plugin
         if (resizeTimer) clearTimeout(resizeTimer);
         resizeTimer = setTimeout(collage, 200);
-    });       
+    });
+    
     
 </script>
 
