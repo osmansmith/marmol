@@ -64,11 +64,10 @@ function jefes()
      $('.shape')
   .shape('set next side', '.second.side')
   .shape('flip left');  
-    }    
+    };    
     
-var pag = ["","index","empresa","trabajos","clientes","contactos","catalogo","marmol","granito","cuarzo"]
-var cont = ["","Home","Empresa","Trabajos","Clientes","Contactos","Catalogo","Mármol","Granito","Cuarzo"]
-var num = 1;    
+var pag = ["","index","empresa","trabajos","clientes","contactos","catalogo","marmol","granito","cuarzo"];
+var cont = ["","Home","Empresa","Trabajos","Clientes","Contactos","Catalogo","Mármol","Granito","Cuarzo"];    
 var URLactual = window.location;
     for(var i = 1;i<10;i++)
     {
