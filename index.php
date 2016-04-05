@@ -61,7 +61,7 @@
      </div>     
      <div class="ui stackable two column grid"> 
     <!--Contenido de la pagina-->
-     <div style=" min-height: 70px; padding:4% 0 0 4%;" class="ten wide column">
+     <div style=" min-height: 70px; padding:2% 0 0 4%;" class="ten wide column">
      <!--Texto del home-->
      <div class="column">
     <div class="ui raised segment">
@@ -69,12 +69,12 @@
        <span>Bienvenido</span>
          <br><br>
       <p>Marmolería SERENA MARMOL es una empresa que nace el año 2012, bajo la necesidad del mercado, fabricando piezas elaboradas en mármol, granito y cuarzo, dimensionados para el hogar en muebles, cocina y baño, ademas , para locales comerciales, inmobiliaria y otros. <br><br> Se elaboran cubiertas de mesas, revestimientos de cocinas, cubiertas para vanitorios, piso y revestimientos, entre otros. Administrada por su dueño, Segundo Hernández y Compa. Nuestros productos consisten en Mármol, Granito y Cuarzo, muebles a medidas. </p>
-        <iframe src="https://player.vimeo.com/video/87545999?loop=1&title=0&byline=0&portrait=0" width="640" height="281" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe>
+       <iframe src="https://player.vimeo.com/video/87545999?loop=1&title=0&byline=0&portrait=0" width="640" height="281" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe>      
         <!--<p><a href="https://vimeo.com/87545999"></a><a href="https://vimeo.com/user25419268"></a><a href="https://vimeo.com"></a></p>-->                
     </div>
   </div>
-      </div>
-       <div style=" min-height: 70px; padding:4% 0 0 4%;" class="six wide column">
+         </div>
+       <div style=" min-height: 70px; padding:2% 0 0 4%;" class="four wide column">
        <!--Imagenes que dan vuelta-->
        <div class="ui people shape">
   <div class="sides">

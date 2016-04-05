@@ -56,11 +56,12 @@
 <script>
 var url = "http://localhost/marmol/";
 $('.ui.dropdown').dropdown();
+$('.shape').shape();
 // en el segundo parametro de la funcion setInterval se puede setear el tiempo de las imagenes giratorias de los jefes(esta en milisegundos)
     // seteado en 5 seg = 5000
 var tiempo = setInterval(jefes, 5000);
 function jefes()
-    {
+    {       
      $('.shape')
   .shape('set next side', '.second.side')
   .shape('flip left');  
@@ -158,6 +159,14 @@ var URLactual = window.location;
                .transition('scale')
                .transition('vertical flip');
         $("#mostrar").attr("src","img/06.jpg");
+
+    });
+     $("#img_07").click(function(e){
+        e.preventDefault();
+          $('.autumn.leaf')
+               .transition('scale')
+               .transition('vertical flip');
+        $("#mostrar").attr("src","img/07.png");
 
     });
     

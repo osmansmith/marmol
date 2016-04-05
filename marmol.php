@@ -141,6 +141,7 @@
 <a id="img_04"><img class="ui image" src="img/thumb-04.jpg"></a>
 <a id="img_05">   <img class="ui image" src="img/thumb-05.jpg"></a>
 <a id="img_06">  <img class="ui image" src="img/thumb-06.jpg"></a>
+<a id="img_07">  <img class="ui image" src="img/thumb-07.png"></a>
 </div>
       
       <p><br>
