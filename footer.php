@@ -1,19 +1,19 @@
 
      <footer style="background:#0e0b0a; margin-top:3%;">
         <div class="ui stackable two column grid"> 
-        <div style=" color:white; font-size:8pt; min-height: 70px; padding:15px 0 4% 4%;" class="ten wide column">
+        <div style=" color:white; font-size:8pt; min-height: 70px; padding:10px 0 4% 4%; margin-bottom:15px;" class="ten wide column">
            <!--Texto Izquierdo del footer-->
            <div class="ui list">
               <div class="item">
                 <i class="users icon"></i>
                 <div class="content">
-                  Serena Marmol - Derechos Reservados.
+                  Serena Marmol® - Derechos Reservados 2012.
                 </div>
               </div>
               <div class="item">
                 <i class="marker icon"></i>
                 <div class="content">
-                  Pan de Azucar, Coquimbo
+                  Pan de Azucar, Coquimbo; Chile.
                 </div>
               </div>
               <div class="item">
@@ -25,7 +25,7 @@
               <div class="item">
                 <i class="linkify icon"></i>
                 <div class="content">
-                  <a href="http://www.serenamarmol.cl">Serena Marmol</a>
+                  Desarrollado por <a href="http://www.cuscarisun.com">Cuscarisun.com</a>
                 </div>
               </div>
               <div class="ui vertical divider" style="heigth: 10px;"></div>

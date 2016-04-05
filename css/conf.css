@@ -20,7 +20,7 @@
 }
 
 #cafo1 {
-	background-image: url(/img/img_back.jpg);
+	background-image: url(../img/img_back.jpg);
 	background-attachment: fixed;
   	background-position: 50% -800%;
   	border-radius: 2px;
