@@ -135,12 +135,12 @@
       <a class="ui green ribbon label">MARMOL</a>
       
       <div style="margin-top:3%; "class="ui tiny images">
-  <img class="ui image" src="img/image.png">
-  <img class="ui image" src="img/image.png">
-  <img class="ui image" src="img/image.png">
-  <img class="ui image" src="img/image.png">
-   <img class="ui image" src="img/image.png">
-  <img class="ui image" src="img/image.png">
+<a id="img_01" > <img class="ui image" src="img/thumb-01.jpg"></a>
+<a id="img_02"> <img class="ui image" src="img/thumb-02.jpg"></a>
+<a id="img_03"><img class="ui image" src="img/thumb-03.jpg"></a>
+<a id="img_04"><img class="ui image" src="img/thumb-04.jpg"></a>
+<a id="img_05">   <img class="ui image" src="img/thumb-05.jpg"></a>
+<a id="img_06">  <img class="ui image" src="img/thumb-06.jpg"></a>
 </div>
       
       <p><br>
@@ -153,7 +153,7 @@
   </div>
   <div class="column">
      <div style="padding:5% 0 5% 0;" class="ui raised segment">
-   <center><img class="ui large image" src="img/image.png">
+   <center><img id="mostrar" class="ui large image" src="img/image.png">
  </center>
       </div>
   </div>
