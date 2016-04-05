@@ -78,23 +78,7 @@ var URLactual = window.location;
       $("#"+pag[i]+"").removeClass('active');    
 } 
 
-    }
-
-       
-   var pag = ["","index","empresa","trabajos","clientes","contactos","catalogo","marmol","granito","cuarzo"]
-var cont = ["","Home","Empresa","Trabajos","Clientes","Contactos","Catalogo","Mármol","Granito","Cuarzo"]
-var num = 1;    
-var URLactual = window.location;
-    for(var i = 1;i<10;i++)
-    {
-  if(URLactual == url+pag[i]+".php")
-  {
-      $("#"+pag[i]+"").addClass('active');
-      $("title").text(cont[i]);    
-}else{
-      $("#"+pag[i]+"").removeClass('active');    
-} 
-    }   
+    }         
      $('.Collage').collagePlus();   $(window).load(function () {
         $(document).ready(function(){
             collage();

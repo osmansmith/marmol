@@ -7,6 +7,7 @@
 	<link rel="stylesheet" href="dist/semantic.min.css">
 	<link rel="stylesheet" href="css/slider.css">
 	<link rel="stylesheet" href="css/conf.css">
+	<link rel="stylesheet" href="css/transitions.css">
 	<script src="dist/jquery-1.11.3.min.js"></script>
 	<script src="dist/slider.js"></script>	
 	 <script type="text/javascript" src="dist/jssor.slider.min.js"></script>  	 
