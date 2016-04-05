@@ -62,12 +62,11 @@
   </div>
 </div>                              
     </div>
-    <div class="ui raised segment">
-     
-      
-<img src="/img/mapa.jpg">
-
-    </div>
+      <center>
+        <div class="ui fluid container"style"width:700px;"> 
+          <img src="img/mapa.jpg">
+        </div> 
+      </center> 
   </div>
   <div class="column">
     
