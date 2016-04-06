@@ -6,8 +6,8 @@
       
 <!-- Bloque de Categoria 01 -->
 
-    <div class="ui ten column middle aligned very relaxed stackable grid" style="padding:15px 20px 0 20px";>
-      <div class="center aligned column">
+    <div class="ui ten column middle aligned very relaxed stackable grid" style="padding:15px 20px 0 20px;">
+      <div class="center aligned column"><br>
         <img class="ui small image" src="img/mm01.png">
           <p> Producto 01 <br>
               Clase <br>
@@ -116,8 +116,8 @@
       
 <!-- Bloque de Categoria 02 -->
 
-    <div class="ui ten column middle aligned very relaxed stackable grid" style="padding:15px 20px 0 20px";>
-      <div class="center aligned column">
+    <div class="ui ten column middle aligned very relaxed stackable grid" style="padding:15px 20px 0 20px;">
+      <div class="center aligned column"><br>
         <img class="ui small image" src="img/mm01.png">
           <p> Producto 01 <br>
               Clase <br>
@@ -226,8 +226,8 @@
       
 <!-- Bloque de Categoria 03 -->
 
-    <div class="ui ten column middle aligned very relaxed stackable grid" style="padding:15px 20px 0 20px";>
-      <div class="center aligned column">
+    <div class="ui ten column middle aligned very relaxed stackable grid" style="padding:15px 20px 0 20px;">
+      <div class="center aligned column"><br>
         <img class="ui small image" src="img/mm01.png">
           <p> Producto 01 <br>
               Clase <br>
