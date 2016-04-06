@@ -27,17 +27,20 @@
 	 <script type="text/javascript" src="dist/jssor.slider.min.js"></script>  	 
 </head>
 <body>
-<div class="ui container">
-  <div class="ui stackable two column grid">    
-    <div style=" min-height: 50px; padding-top:1%;" class="seven wide column">
-      <img src="/logo.png"/>
-    </div>                                  
-    <div style=" min-height: 10px; padding:1% 0 0 1%;" class="eight wide column">
+<!--Logo principal-->
+
+  <div class="ui container">
+    <div class="ui stackable two column grid">    
+      <div style=" min-height: 50px;" class="ten wide column">
+        <img src="/logo.png"/>
+      </div>                                  
+      <div style=" min-height: 10px;" class="five wide column">
+
 <!--menu principal-->
       <header>
-        <div style="margin-bottom: 5px; padding-top: 20px;" class="ui secondary pointing menu">
-          <a id="index" href="index.php" class="item ">Home</a>         
-            <div id="catalogo" class="ui dropdown item">Catalogo<i class="dropdown icon"></i>
+        <div style="margin-bottom: 5px;" class="ui secondary pointing menu">
+          <a id="index" href="index.php" class="item">Home</a>         
+            <div class="ui dropdown item">Catalogo<i class="dropdown icon"></i>
               <div class="menu">
                 <a id="marmol" href="marmol.php" class="item">Mármol</a>
                 <a id="granito" href="granito.php" class="item">Granito</a>
@@ -45,7 +48,6 @@
               </div>
             </div>
           <a id="trabajos" href="trabajos.php" class="item">Trabajos</a>
-          <a id="clientes" href="clientes.php" class="item">Clientes</a>
           <a id="contactos" href="contactos.php" class="item">Contactos</a>
         </div>
       </header>

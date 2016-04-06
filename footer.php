@@ -68,19 +68,19 @@ function jefes()
   .shape('flip left');  
     };    
   
-var pag = ["","index","trabajos","clientes","contactos","catalogo","marmol","granito","cuarzo"];
-var cont = ["","Home","Trabajos","Clientes","Contactos","Catalogo","Mármol","Granito","Cuarzo"];    
+var pag = ["index","trabajos","contactos","marmol","granito","cuarzo"];
+var cont = ["Home","Trabajos","Contactos","Mármol","Granito","Cuarzo"];    
 var URLactual = window.location;
-    for(var i = 1;i<9;i++)
+    for (var i = 0; i<6; i++)
     {
   if(URLactual == url+pag[i]+".php")
   {
       $("#"+pag[i]+"").addClass('active');
       $("title").text(cont[i]);    
-}else{
-      $("#"+pag[i]+"").removeClass('active');    
-} 
-
+  }
+  else {
+      $("#"+pag[i]+"").removeClass('active');
+    } 
     }             
 
     // Funcion de jvascript funcion de imagenes (06imagenes)
