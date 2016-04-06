@@ -8,7 +8,7 @@
       Estamos ubicados en <br>
       Ruta D-43, Kilometro 12, Numero 5000 <br>
       Sector Pan de Azúcar, <br>
-      Coquimbo, IV Regió.
+      Coquimbo, IV Región.
       </p>
       
       
