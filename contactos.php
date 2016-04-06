@@ -63,7 +63,7 @@
     </div>
     </div>
   <div class="column">
-   <h1 Style="color: grey"> <i class="mail icon"></i>Envienos su consulta</h1>
+   <h1 Style="color: grey text-shadow: 1px 1px 1px #1C1C1C;"> <i class="mail icon"></i>Envienos su consulta</h1>
      <form class="ui form">
   <div class="field">
     <!--<label>Nombre :</label>-->
