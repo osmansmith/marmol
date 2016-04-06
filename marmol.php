@@ -1,6 +1,6 @@
 <?php include_once "head.php";?>
 <!-- contenido de mármol-->
-<div class="ui two column grid">
+<div class="ui stackable two column grid">
 <div class="column">
     <div class="ui raised segment">
      
