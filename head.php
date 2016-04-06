@@ -3,12 +3,20 @@
 <head>
 	<meta charset="UTF-8">
 	<title>Serena Mármol</title>
+  <meta property="og:image" content="http://www.cuscarisun.com/images/Img_dest.jpg">
+  <meta property='og:locale' content='es_ES'/>
+  <meta property='og:type' content='website'/>
+  <meta property='og:url' content='http://www.cuscarisun.com'/>
+  <meta name="description" content="publicidad coquimbo cusca risun Letreros, es una empresa de jovenes creativos dedicada a diseñar, fabricar y crear proyectos de acuerdo a sus necesidades especificas, desarrollando sus requerimientos con el mejor resultado estetico y excelente standard de calidad." />
+  <meta name="keywords" content="cusca risun, agencia, letreros en coquimbo, pendones, 4ta región, publicidad, con las 3B, señaletias, en coquimbo, PAI, carteles, letreros luminosos, Diseño Gráfico, Palomas (Metal, Madera y Pizarras), AllPosters (Laminas & Enmarcados), Autoadhesivos en PAI, Empavonados, Señaleticas (Acrilico, Vinilos y Grabados)Diseño de Brochure, Folleto, Diseño de Afiches, Flyers, Anuncios, Diseño Publicitario" />
 	<meta name="viewport" content="width=device-width, initial-scale=1">
 	<link rel="stylesheet" href="dist/semantic.min.css">
 	<link rel="stylesheet" href="css/slider.css">
 	<link rel="stylesheet" href="css/conf.css">
 	<link rel="stylesheet" href="css/transitions.css">
 	<link rel="stylesheet" href="fancy/source/jquery.fancybox.css">
+  <link rel="shortcut icon" href="favicon.ico">
+  <link href='http://fonts.googleapis.com/css?family=Lobster' rel='stylesheet' type='text/css'>
 	<script src="dist/jquery-1.11.3.min.js"></script>
 	<script src="fancy/source/jquery.fancybox.pack.js"></script>
 	<script>

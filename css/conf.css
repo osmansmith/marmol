@@ -20,6 +20,13 @@
   text-shadow: 2px 2px 2px #1C1C1C;
 }
 
+#copyfot {
+      font-family: Lobster;
+      color: #FFF;
+      font-size: auto;
+      border:0;
+}
+
 #cafo1 {
 	background-image: url(../img/img_back.jpg);
 	background-attachment: fixed;
