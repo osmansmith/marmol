@@ -1,6 +1,7 @@
 <?php include_once "head.php";?>
 
 <!-- Contenido de la pagina-->
+<iframe src="https://www.google.com/maps/d/embed?mid=z9U1PEke4UHU.kIwmhGYnwSaE" width="1200" height="420"></iframe>
 <div class="ui two column grid">
 <div class="column">
     <div class="ui raised segment">
@@ -63,7 +64,7 @@
 </div>                              
     </div>
       <center>
-        <div class="ui fluid container"style"width:700px;"> 
+        <div class="ui fluid container" style="width:700px;"> 
           <img src="img/mapa.jpg">
         </div> 
       </center> 
