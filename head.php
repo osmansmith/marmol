@@ -2,7 +2,7 @@
 <html lang="es">
 <head>
 	<meta charset="UTF-8">
-	<title>Templeate 01</title>
+	<title>Serena Mármol</title>
 	<meta name="viewport" content="width=device-width, initial-scale=1">
 	<link rel="stylesheet" href="dist/semantic.min.css">
 	<link rel="stylesheet" href="css/slider.css">
@@ -20,15 +20,11 @@
 });
     </script>
 	<script src="dist/slider.js"></script>	
-<<<<<<< HEAD
 	<script type="text/javascript" src="dist/jssor.slider.min.js"></script>  	 
 	<script src="js/jquery.collagePlus.min.js"></script>
   <script src="js/jquery.collageCaption.min.js"></script>
   <script src="js/jquery.removeWhitespace.min.js"></script>	 
-=======
 	 <script type="text/javascript" src="dist/jssor.slider.min.js"></script>  	 
-	     
->>>>>>> origin/master
 </head>
 <body>
 <div class="ui container">
@@ -40,8 +36,7 @@
 <!--menu principal-->
       <header>
         <div style="margin-bottom: 5px; padding-top: 20px;" class="ui secondary pointing menu">
-          <a id="index" href="index.php" class="item ">Home</a>
-          <a id="empresa" href="empresa.php" class="item">Empresa</a>
+          <a id="index" href="index.php" class="item ">Home</a>         
             <div id="catalogo" class="ui dropdown item">Catalogo<i class="dropdown icon"></i>
               <div class="menu">
                 <a id="marmol" href="marmol.php" class="item">Mármol</a>

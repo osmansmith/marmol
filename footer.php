@@ -68,10 +68,10 @@ function jefes()
   .shape('flip left');  
     };    
     
-var pag = ["","index","empresa","trabajos","clientes","contactos","catalogo","marmol","granito","cuarzo"];
-var cont = ["","Home","Empresa","Trabajos","Clientes","Contactos","Catalogo","Mármol","Granito","Cuarzo"];    
+var pag = ["","index","trabajos","clientes","contactos","catalogo","marmol","granito","cuarzo"];
+var cont = ["","Home","Trabajos","Clientes","Contactos","Catalogo","Mármol","Granito","Cuarzo"];    
 var URLactual = window.location;
-    for(var i = 1;i<10;i++)
+    for(var i = 1;i<9;i++)
     {
   if(URLactual == url+pag[i]+".php")
   {
