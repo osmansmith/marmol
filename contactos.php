@@ -1,7 +1,7 @@
 <?php include_once "head.php";?>
 
 <!-- Contenido de la pagina-->
-<iframe src="https://www.google.com/maps/d/embed?mid=z9U1PEke4UHU.kIwmhGYnwSaE" width="1126" height="420" style="margin:20px 0 20px 0; "></iframe>
+<iframe src="https://www.google.com/maps/d/embed?mid=z9U1PEke4UHU.kIwmhGYnwSaE" width="100%" height="420" style="margin:20px 0 20px 0; border:none;"></iframe>
 <div class="ui two column grid">
 <div class="column">
     <div class="ui raised segment">
@@ -79,8 +79,8 @@
   <div class="field">
       <textarea name="mensaje" id="mensaje" cols="30" rows="10" placeholder="MENSAJE"></textarea>
   </div>
-  <button class="ui button" type="submit">ENVIAR</button>
-   <button class="ui button" type="reset">LIMPIAR</button>
+  <button class="ui button" type="submit">Enviar</button>
+   <button class="ui button" type="reset">Borrar</button>
   
 </form>
  
