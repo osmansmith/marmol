@@ -81,34 +81,38 @@
 
 <!-- Contenido de Producto 1 -->
 
-  <div class="ui two column grid">
+  <div class="ui stackable two column grid">
+<div class="column">
+    <div class="ui raised segment">
+     
+     <a class="ui green ribbon label">PRODUCTOS UNO</a>
+      
+      <div style="margin-top:3%; "class="ui tiny images">
+        <a id="img_01_1"><img class="ui image" src="img/thumb-01.jpg"></a>
+        <a id="img_02_1"><img class="ui image" src="img/thumb-02.jpg"></a>
+        <a id="img_03_1"><img class="ui image" src="img/thumb-03.jpg"></a>
+        <a id="img_04_1"><img class="ui image" src="img/thumb-04.jpg"></a>
+        <a id="img_05_1"><img class="ui image" src="img/thumb-05.jpg"></a>
+        <a id="img_06_1"><img class="ui image" src="img/thumb-06.jpg"></a>
+        <a id="img_07_1"><img class="ui image" src="img/thumb-07.png"></a>
+      </div>
+      
+      <p><br>
+      Nuestra es una empresa que nace el año 2015, 
+      bajo la necesidad del mercado, fabricando piezas elaboradas en mármol, 
+      granito y cuarzo, dimensionados para el hogar en muebles, cocina y baño, 
+      ademas , para locales comerciales, inmobiliaria y otros. <br><br> Se elaboran cubiertas de mesas, 
+      revestimientos de cocinas, cubiertas para vanitorios, piso y revestimientos, entre otros. 
+      Administrada por su dueño, Shamuyo Hernández y Compa. Nuestros productos consisten en Mármol, 
+      Granito y Cuarzo, muebles a medidas.</p>            
+    </div>
+</div>
     <div class="column">
-      <div class="ui raised segment">
-        <a class="ui green ribbon label">CUARZO</a>
-        <div style="margin-top:3%; "class="ui tiny images">
-          <img class="ui image" src="img/image.png">
-          <img class="ui image" src="img/image.png">
-          <img class="ui image" src="img/image.png">
-          <img class="ui image" src="img/image.png">
-          <img class="ui image" src="img/image.png">
-          <img class="ui image" src="img/image.png">
-        </div>
-        <p><br>
-          Nuestra es una empresa que nace el año 2015, 
-          bajo la necesidad del mercado, fabricando piezas elaboradas en mármol, 
-          granito y cuarzo, dimensionados para el hogar en muebles, cocina y baño, 
-          ademas , para locales comerciales, inmobiliaria y otros. <br><br> Se elaboran cubiertas de mesas, 
-          revestimientos de cocinas, cubiertas para vanitorios, piso y revestimientos, entre otros. 
-          Administrada por su dueño, Shamuyo Hernández y Compa. Nuestros productos consisten en Mármol, 
-          Granito y Cuarzo, muebles a medidas.</p>                       
+      <div  class="ui raised segment">
+      <center><img id="mostrar_cuarzo_1" class="ui image autumn leaf2" src="img/image.png"></center>
+      </div>
       </div>
     </div>
-    <div class="column">
-      <div style="padding:5% 0 5% 0;" class="ui raised segment">
-       <center><img class="ui large image" src="img/image.png"></center>
-      </div>
-    </div>
-  </div>
 
 <div class="ui raised segment">
       <a class="ui green ribbon label">CATEGORIA 02</a>
@@ -191,34 +195,38 @@
 
 <!-- Contenido de Producto 2 -->
 
-  <div class="ui two column grid">
+ <div class="ui stackable two column grid">
+<div class="column">
+    <div class="ui raised segment">
+     
+     <a class="ui green ribbon label">PRODUCTOS UNO</a>
+      
+      <div style="margin-top:3%; "class="ui tiny images">
+        <a id="img_01_2"><img class="ui image" src="img/thumb-01.jpg"></a>
+        <a id="img_02_2"><img class="ui image" src="img/thumb-02.jpg"></a>
+        <a id="img_03_2"><img class="ui image" src="img/thumb-03.jpg"></a>
+        <a id="img_04_2"><img class="ui image" src="img/thumb-04.jpg"></a>
+        <a id="img_05_2"><img class="ui image" src="img/thumb-05.jpg"></a>
+        <a id="img_06_2"><img class="ui image" src="img/thumb-06.jpg"></a>
+        <a id="img_07_2"><img class="ui image" src="img/thumb-07.png"></a>
+      </div>
+      
+      <p><br>
+      Nuestra es una empresa que nace el año 2015, 
+      bajo la necesidad del mercado, fabricando piezas elaboradas en mármol, 
+      granito y cuarzo, dimensionados para el hogar en muebles, cocina y baño, 
+      ademas , para locales comerciales, inmobiliaria y otros. <br><br> Se elaboran cubiertas de mesas, 
+      revestimientos de cocinas, cubiertas para vanitorios, piso y revestimientos, entre otros. 
+      Administrada por su dueño, Shamuyo Hernández y Compa. Nuestros productos consisten en Mármol, 
+      Granito y Cuarzo, muebles a medidas.</p>            
+    </div>
+</div>
     <div class="column">
-      <div style="padding:5% 0 5% 0;" class="ui raised segment">
-        <center><img class="ui large image" src="img/image.png"></center>
+      <div  class="ui raised segment">
+      <center><img id="mostrar_cuarzo_2" class="ui image autumn leaf3" src="img/image.png"></center>
+      </div>
       </div>
     </div>
-    <div class="column">
-      <div class="ui raised segment">
-        <a class="ui teal right ribbon label">CUARZO 02</a>
-        <div style="margin-top:3%; "class="ui tiny images">
-          <img class="ui image" src="img/image.png">
-          <img class="ui image" src="img/image.png">
-          <img class="ui image" src="img/image.png">
-          <img class="ui image" src="img/image.png">
-          <img class="ui image" src="img/image.png">
-          <img class="ui image" src="img/image.png">
-        </div>
-        <p><br>
-          Nuestra es una empresa que nace el año 2015, 
-          bajo la necesidad del mercado, fabricando piezas elaboradas en mármol, 
-          granito y cuarzo, dimensionados para el hogar en muebles, cocina y baño, 
-          ademas , para locales comerciales, inmobiliaria y otros. <br><br> Se elaboran cubiertas de mesas, 
-          revestimientos de cocinas, cubiertas para vanitorios, piso y revestimientos, entre otros. 
-          Administrada por su dueño, Shamuyo Hernández y Compa. Nuestros productos consisten en Mármol, 
-          Granito y Cuarzo, muebles a medidas.</p>                       
-      </div>
-    </div>
-  </div>
 
 <div class="ui raised segment">
       <a class="ui green ribbon label">CATEGORIA 02</a>

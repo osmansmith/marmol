@@ -57,7 +57,7 @@
 <script>
 var url = "http://localhost/marmol/";
 $('.ui.dropdown').dropdown();
-$('.shape').shape();
+$('.shape').shape('repaint');
 // en el segundo parametro de la funcion setInterval se puede setear el tiempo de las imagenes giratorias de los jefes(esta en milisegundos)
     // seteado en 5 seg = 5000
 var tiempo = setInterval(jefes, 5000);
@@ -67,7 +67,7 @@ function jefes()
   .shape('set next side', '.second.side')
   .shape('flip left');  
     };    
-    
+  
 var pag = ["","index","trabajos","clientes","contactos","catalogo","marmol","granito","cuarzo"];
 var cont = ["","Home","Trabajos","Clientes","Contactos","Catalogo","Mármol","Granito","Cuarzo"];    
 var URLactual = window.location;
@@ -85,61 +85,63 @@ var URLactual = window.location;
 
     // Funcion de jvascript funcion de imagenes (06imagenes)
 
-    $("#mostrar").attr("src","img/01.jpg");
+     $("#mostrar").attr("src","img/01.jpg");
+     $("#mostrar_cuarzo_1").attr("src","img/01.jpg");
+     $("#mostrar_cuarzo_2").attr("src","img/01.jpg");
     
-       $("#img_01").click(function(e){
-        e.preventDefault();
-           $('.autumn.leaf')
-               .transition('scale')
-               .transition('scale');
-        $("#mostrar").attr("src","img/01.jpg");
-    });  
+  // menu de imagenes para cuarzo 1
+         
+ $("#img_01_1").click(function(e){ e.preventDefault();$('.autumn.leaf2').transition('scale').transition('scale');
+ $("#mostrar_cuarzo_1").attr("src","img/01.jpg");});  
+ $("#img_02_1").click(function(e){ e.preventDefault();$('.autumn.leaf2').transition('scale').transition('scale');
+ $("#mostrar_cuarzo_1").attr("src","img/02.jpg");}); 
+ $("#img_03_1").click(function(e){ e.preventDefault();$('.autumn.leaf2').transition('scale').transition('scale');
+ $("#mostrar_cuarzo_1").attr("src","img/03.jpg");}); 
+ $("#img_04_1").click(function(e){ e.preventDefault();$('.autumn.leaf2').transition('scale').transition('scale');
+ $("#mostrar_cuarzo_1").attr("src","img/04.jpg");}); 
+ $("#img_05_1").click(function(e){ e.preventDefault();$('.autumn.leaf2').transition('scale').transition('scale');
+ $("#mostrar_cuarzo_1").attr("src","img/05.jpg");}); 
+ $("#img_06_1").click(function(e){ e.preventDefault();$('.autumn.leaf2').transition('scale').transition('scale');
+ $("#mostrar_cuarzo_1").attr("src","img/06.jpg");}); 
+ $("#img_07_1").click(function(e){ e.preventDefault();$('.autumn.leaf2').transition('scale').transition('scale');
+ $("#mostrar_cuarzo_1").attr("src","img/07.png");}); 
    
+  // menu de imagenes para cuarzo 2    
+    
+ $("#img_01_2").click(function(e){ e.preventDefault();$('.autumn.leaf3').transition('scale').transition('scale');
+ $("#mostrar_cuarzo_2").attr("src","img/01.jpg");});  
+ $("#img_02_2").click(function(e){ e.preventDefault();$('.autumn.leaf3').transition('scale').transition('scale');
+ $("#mostrar_cuarzo_2").attr("src","img/02.jpg");}); 
+ $("#img_03_2").click(function(e){ e.preventDefault();$('.autumn.leaf3').transition('scale').transition('scale');
+ $("#mostrar_cuarzo_2").attr("src","img/03.jpg");}); 
+ $("#img_04_2").click(function(e){ e.preventDefault();$('.autumn.leaf3').transition('scale').transition('scale');
+ $("#mostrar_cuarzo_2").attr("src","img/04.jpg");}); 
+ $("#img_05_2").click(function(e){ e.preventDefault();$('.autumn.leaf3').transition('scale').transition('scale');
+ $("#mostrar_cuarzo_2").attr("src","img/05.jpg");}); 
+ $("#img_06_2").click(function(e){ e.preventDefault();$('.autumn.leaf3').transition('scale').transition('scale');
+ $("#mostrar_cuarzo_2").attr("src","img/06.jpg");}); 
+ $("#img_07_2").click(function(e){ e.preventDefault();$('.autumn.leaf3').transition('scale').transition('scale');
+ $("#mostrar_cuarzo_2").attr("src","img/07.png");}); 
+    
    
-    $("#img_02").click(function(e){
-        e.preventDefault();
-          $('.autumn.leaf')
-               .transition('scale')
-               .transition('fade down');
-        $("#mostrar").attr("src","img/02.jpg");
-    });
-    $("#img_03").click(function(e){
-        e.preventDefault();
-          $('.autumn.leaf')
-               .transition('scale')
-               .transition('fade left');
-        $("#mostrar").attr("src","img/03.jpg");
-    });
-    $("#img_04").click(function(e){
-        e.preventDefault();
-          $('.autumn.leaf')
-               .transition('scale')
-               .transition('fade right');
-        $("#mostrar").attr("src","img/04.jpg");
-    });
-    $("#img_05").click(function(e){
-        e.preventDefault();
-          $('.autumn.leaf')
-               .transition('scale')
-               .transition('horizontal flip');
-        $("#mostrar").attr("src","img/05.jpg");
-    });
-    $("#img_06").click(function(e){
-        e.preventDefault();
-          $('.autumn.leaf')
-               .transition('scale')
-               .transition('vertical flip');
-        $("#mostrar").attr("src","img/06.jpg");
-
-    });
-     $("#img_07").click(function(e){
-        e.preventDefault();
-          $('.autumn.leaf')
-               .transition('scale')
-               .transition('vertical flip');
-        $("#mostrar").attr("src","img/07.png");
-
-    });
+   // codigo para menu de imagenes 1 "#mostrar"
+    
+ $("#img_01").click(function(e){ e.preventDefault();$('.autumn.leaf').transition('scale').transition('scale');
+ $("#mostrar").attr("src","img/01.jpg");});  
+ $("#img_02").click(function(e){ e.preventDefault();$('.autumn.leaf').transition('scale').transition('scale');
+ $("#mostrar").attr("src","img/02.jpg");}); 
+ $("#img_03").click(function(e){ e.preventDefault();$('.autumn.leaf').transition('scale').transition('scale');
+ $("#mostrar").attr("src","img/03.jpg");}); 
+ $("#img_04").click(function(e){ e.preventDefault();$('.autumn.leaf').transition('scale').transition('scale');
+ $("#mostrar").attr("src","img/04.jpg");}); 
+ $("#img_05").click(function(e){ e.preventDefault();$('.autumn.leaf').transition('scale').transition('scale');
+ $("#mostrar").attr("src","img/05.jpg");}); 
+ $("#img_06").click(function(e){ e.preventDefault();$('.autumn.leaf').transition('scale').transition('scale');
+ $("#mostrar").attr("src","img/06.jpg");}); 
+ $("#img_07").click(function(e){ e.preventDefault();$('.autumn.leaf').transition('scale').transition('scale');
+ $("#mostrar").attr("src","img/07.png");}); 
+    
+      
     
 
   
