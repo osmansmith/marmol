@@ -15,7 +15,7 @@
 	<link rel="stylesheet" href="css/conf.css">
 	<link rel="stylesheet" href="css/transitions.css">
 	<link rel="stylesheet" href="fancy/source/jquery.fancybox.css">
-  <link rel="shortcut icon" href="favicon.ico">
+  <link rel="shortcut icon" href="http://www.cuscarisun.com/favicon.ico">
   <link href='http://fonts.googleapis.com/css?family=Lobster' rel='stylesheet' type='text/css'>
 	<script src="dist/jquery-1.11.3.min.js"></script>
 	<script src="fancy/source/jquery.fancybox.pack.js"></script>

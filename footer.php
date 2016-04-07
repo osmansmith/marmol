@@ -69,7 +69,7 @@ var URLactual = window.location;
     for (var i = 0; i<6; i++){
     
     if (URLactual == url+pag[i]+".php"){
-          $("#"+pag[i]+"").addClass('active');
+          $("#"+pag[i]).addClass('active');
           $("title").text(cont[i]);    
         }
     else  {
